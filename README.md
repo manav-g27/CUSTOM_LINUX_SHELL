@@ -14,7 +14,7 @@ This project is designed for learning OS concepts and to showcase systems progra
 
 ## Build
 ```bash
-custom-linux-shell && make
+cd custom-linux-shell && make
 ```
 
 ## Run
